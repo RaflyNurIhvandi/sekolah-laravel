@@ -1,0 +1,6 @@
+Untuk bagian tampilan setelah register masih belum sempurna.
+
+Cara mengatasi masalah :
+Setelah melakukan Register masukan record pada database sekolah di table profile dengan nama user sesuai dengan yang digunakan untuk Register awal tadi.
+
+Mohon maaf karena website masih dalam tahap pengembangan.

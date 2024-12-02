@@ -1,0 +1,11 @@
+Admin Sekolah :
+smknaga@gmail.com
+pass : smknaga123
+
+Guru :
+wulan@gmail.com
+pass : wulan123
+
+Siswa : 
+raflyfidela@gmail.com
+pass : raflyfidela123
